@@ -1,0 +1,11 @@
+### Intro to modular design
+
+#### Notes
+1. Separation of concerns and the importance of drawing a Dependency diagram.
+2. Once the separation achieved, we can make use of macOS target to test API + Database layer.
+3. Single/Bi-directional is important to understand.
+4. You need to trailor your own need (by following the correct principle/pattern).
+
+#### Homework
+1. Monolithic architecture?
+2. How to draw Dependency/UML diagram.
