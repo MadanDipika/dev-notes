@@ -22,6 +22,20 @@
    - happy and the sad paths
    - No assumptions
 
+##### Day 3
+Singletons
+- When and Why
+- Better alternatives
+- Refactoring steps to gradually remove tight coupling created by singletons
+Controlling your dependencies: 
+- Locating globally shared instances (Implicit) vs. Injecting dependencies (Explicit)
+- Dependency injection
+
+##### Day 4
+- Understand the trade-offs of access control for testing purposes
+- Expand behavior checking (and coverage) using test spy objects
+- Test visibility: public vs @testable (internal)
+
 #### Homework
 
 ##### Day 1
