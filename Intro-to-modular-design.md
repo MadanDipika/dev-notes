@@ -23,11 +23,11 @@
    - No assumptions
 
 ### Day 3
-Singletons
+#### Singletons
 - When and Why
 - Better alternatives
 - Refactoring steps to gradually remove tight coupling created by singletons
-Controlling your dependencies: 
+#### Controlling your dependencies
 - Locating globally shared instances (Implicit) vs. Injecting dependencies (Explicit)
 - Dependency injection
 
