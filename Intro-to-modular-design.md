@@ -36,6 +36,9 @@
 - Expand behavior checking (and coverage) using test spy objects
 - Test visibility: public vs @testable (internal)
 
+### Day 5
+
+
 ## Homework
 
 ### Day 1
