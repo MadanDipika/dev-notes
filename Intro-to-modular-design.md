@@ -36,7 +36,7 @@
 - Expand behavior checking (and coverage) using test spy objects
 - Test visibility: public vs @testable (internal)
 
-### Day 5 - JSON with Decodable + Domain-Specific Models
+### Day 5
 - Always start with the sad path testcases.
 - Make use of #File and #Line when making common function for assert.
 - Try to break UT functionality into helpers and factory.
