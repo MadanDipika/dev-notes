@@ -36,14 +36,15 @@
 - Expand behavior checking (and coverage) using test spy objects
 - Test visibility: public vs @testable (internal)
 
-### Day 5
-
+### Day 5 - JSON with Decodable + Domain-Specific Models
+- Always start with the sad path testcases.
+- Make use of #File and #Line when making common function for assert.
+- Try to break UT functionality into helpers and factory.
+- Xcode feature to generate the member function initializer.
+- Create Domain specific models ( avoid exposin the Decodable model everywhere in the code, helps to clean up the API response models).
 
 ## Homework
 
-### Day 1
 1. Monolithic architecture?
 2. How to draw Dependency/UML diagram.
-
-### Day 2
-1. Story writing template.
+3. Story writing template.
