@@ -43,6 +43,10 @@
 - Xcode feature to generate the member function initializer.
 - Create Domain specific models ( avoid exposin the Decodable model everywhere in the code, helps to clean up the API response models).
 
+### Day 6
+- Use of swift's pattern matching feature
+- In order to achieve abstraction, keep the domain specific model private in domain mapper and return feature model.
+
 ## Homework
 
 1. Monolithic architecture?
